@@ -2,7 +2,7 @@
 <!-- Copyright 2022 Atlan Pte. Ltd. -->
 
 <p align="center">
-  <img src="atlan-cli-ascii.png" alt="Atlan CLI Logo" width="800" />
+  <img src="atlan-cli-ascii.png" alt="Atlan CLI Logo" width="500" />
 </p>
 
 # Atlan CLI
